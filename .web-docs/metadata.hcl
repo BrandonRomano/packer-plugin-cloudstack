@@ -3,7 +3,7 @@
 integration {
   name = "CloudStack"
   description = "The cloudstack plugin can be used with HashiCorp Packer to create custom images on Apache CloudStack."
-  identifier = "packer/BrandonRomano/cloudstack"
+  identifier = "packer/hashicorp/cloudstack"
   component {
     type = "builder"
     name = "CloudStack"
